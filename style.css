@@ -1,0 +1,14 @@
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.margen{
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+}
+body{
+    background-color:  #c28f5c;
+}
